@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Speaking",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-05T03:39:21.328311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In a Manner of Speaking",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/01_In_a_Manner_of_Speaking_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Speaking of Ghost",
+      "artist": "POLIÇA feat. s t a r g a z e",
+      "has_synced": true,
+      "path": "select/02_Speaking_of_Ghost_POLIÇA_feat._s_t_a_r_g_a_z_e.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Speaking of Ghost",
+      "artist": "Poliça",
+      "has_synced": true,
+      "path": "select/03_Speaking_of_Ghost_Poliça.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Speaking In Tongues",
+      "artist": "Black Eyes",
+      "has_synced": false,
+      "path": "select/04_Speaking_In_Tongues_Black_Eyes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Speaking Confidentially",
+      "artist": "Cowboy Junkies",
+      "has_synced": true,
+      "path": "select/05_Speaking_Confidentially_Cowboy_Junkies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Is God Speaking",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/06_This_Is_God_Speaking_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Speaking Terms",
+      "artist": "Snail Mail",
+      "has_synced": true,
+      "path": "select/07_Speaking_Terms_Snail_Mail.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speaking in tongues",
+      "artist": "How to Destroy Angels",
+      "has_synced": true,
+      "path": "select/08_Speaking_in_tongues_How_to_Destroy_Angels.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Universally Speaking",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/09_Universally_Speaking_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Universally Speaking",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/10_Universally_Speaking_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You're Speaking My Language",
+      "artist": "Juliette And The Licks",
+      "has_synced": true,
+      "path": "select/11_You're_Speaking_My_Language_Juliette_And_The_Licks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In a Manner of Speaking",
+      "artist": "Tuxedomoon",
+      "has_synced": true,
+      "path": "select/12_In_a_Manner_of_Speaking_Tuxedomoon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Speaking in Tongues",
+      "artist": "Arcade Fire feat. David Byrne",
+      "has_synced": true,
+      "path": "select/13_Speaking_in_Tongues_Arcade_Fire_feat._David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Laying Of Hands The Speaking In Tongues(The Mass Hysteria)",
+      "artist": "The Paper Chase",
+      "has_synced": true,
+      "path": "select/14_The_Laying_Of_Hands_The_Speaking_In_Tongues(The_Mass_Hysteria)_The_Paper_Chase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Speaking",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Speaking_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
